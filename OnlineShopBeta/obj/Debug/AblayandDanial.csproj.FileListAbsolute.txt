@@ -1,0 +1,11 @@
+C:\Users\dania\OneDrive\Рабочий стол\AblayandDanial\bin\Debug\AblayandDanial.exe.config
+C:\Users\dania\OneDrive\Рабочий стол\AblayandDanial\bin\Debug\AblayandDanial.exe
+C:\Users\dania\OneDrive\Рабочий стол\AblayandDanial\bin\Debug\AblayandDanial.pdb
+C:\Users\dania\OneDrive\Рабочий стол\AblayandDanial\obj\Debug\AblayandDanial.csproj.AssemblyReference.cache
+C:\Users\dania\OneDrive\Рабочий стол\AblayandDanial\obj\Debug\AblayandDanial.csproj.SuggestedBindingRedirects.cache
+C:\Users\dania\OneDrive\Рабочий стол\AblayandDanial\obj\Debug\AblayandDanial.Form1.resources
+C:\Users\dania\OneDrive\Рабочий стол\AblayandDanial\obj\Debug\AblayandDanial.Properties.Resources.resources
+C:\Users\dania\OneDrive\Рабочий стол\AblayandDanial\obj\Debug\AblayandDanial.csproj.GenerateResource.cache
+C:\Users\dania\OneDrive\Рабочий стол\AblayandDanial\obj\Debug\AblayandDanial.csproj.CoreCompileInputs.cache
+C:\Users\dania\OneDrive\Рабочий стол\AblayandDanial\obj\Debug\AblayandDanial.exe
+C:\Users\dania\OneDrive\Рабочий стол\AblayandDanial\obj\Debug\AblayandDanial.pdb
